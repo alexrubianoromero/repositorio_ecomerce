@@ -1,0 +1,9 @@
+se ejecuta la  siguiente ruta 
+
+localhost/trabajo_final_agenda/server/conexion.php
+
+y se crearan tres usuarios 
+uno de ellos 
+usuario: alex@gmail.com
+clave : 123456
+
